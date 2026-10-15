@@ -6,8 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "Sonictickop.aternos.me",
+    "port": 34188
+ Co,
     "version": "1.20.1",
     "try-creative": false
   },
